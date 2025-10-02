@@ -1,5 +1,4 @@
-Hanya seorang pendosa handal yang ingin mencoba belajar berubah 
-menjadi lebih baik lagi
+Kechilafan Satu Orang Sahaja Tjukup Sudah Menjebabkan Keruntuhan Negara
 
 <!---
 asroyxCySec/asroyxCySec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
