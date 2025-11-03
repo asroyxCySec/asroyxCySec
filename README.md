@@ -123,9 +123,50 @@ goals_2025:
 
 | 🎓 Certification | 📅 Year | 🏢 Issuer |
 |------------------|---------|-----------|
-| Certified Ethical Hacker (CEH) | 2024 | EC-Council |
-| CompTIA Security+ | 2023 | CompTIA |
-| Python for Cybersecurity | 2023 | Udemy |
+| Red Hat System Administration II (RH134) | 2022 | Reh Hat |
+| MTCNA | 2021 | MikroTik |
+| Peserta Bimbingan Teknis Kesiapsiagaan Insiden Keamanan Siber pada CSIRT Pemerintah Daerah | 2024 | BSSN |
+| Junior Network Administrator | 2021 | BNSP |
+| Forum Konsultasi Publik 2025: Layanan Pusat Kontak Siber Nasional | 2025 | BSSN |
+| Lomba Hacking dalam rangka semarak HUT Badan Siber dan Sandi Negara ke-78| 2024 | BSSN |
+| Hack Point Starter Read Team Bootcamp | 2025 | HACK POINT |
+| Strategi Efektif Menghadapi Tantangan Keamanan AI dengan NIST AI RMF | 2025 | INIXINDO JOGJA |
+| Completed the Classical Cryptography for Beginner Course | 2023 | CYBER ACADEMY |
+| Introduction to Information Security Course | 2023 | CYBER ACADEMY |
+| Scientific Computing with Pyhton | 2024 | FREE CODE CAMP |
+| Certified Information Systems Auditor (CISA) | 2023 | CYBRARY |
+| Certified Information Security Manager (CISM) | 2023 | CYBRARY |
+| CompTIA Security+ (SY0-601) | 2023 | CYBRARY |
+| Describe basic cybersecurity threats, attacks, and mitigations | 2025 | MICROSOFT |
+| Describe Microsoft Security Copilot | 2025 | MICROSOFT |
+| Describe Microsoft’s Service Trust portal and privacy capabilities | 2025 | MICROSOFT |
+| Fortinet Certified Associate in Cybersecurity | 2024 | FORTINET |
+| ApsaraDB RDS Fundamentals | 2025 | ALIBABA CLOUD |
+| Auto Scaling Fundamentals | 2025 | ALIBABA CLOUD |
+| ECS Fundamentals | 2025 | ALIBABA CLOUD |
+| OSS Fundamentals | 2025 | ALIBABA CLOUD |
+| SLB Fundamentals | 2025 | ALIBABA CLOUD |
+| Introduction to Dark Web Operations | 2025 | SECURITY BLUE TEAM |
+| Training Awareness of ISO/IEC 27001:2022 Information Security Management System | 2025 | MITRA BERDAYA OPTIMA (MBO) |
+| Junior Penetration Tester | 2025 | LINUXENIC CORP. |
+| Describe core infrastructure security services in Azure | 2025 | MICROSOFT |
+| NSE 1 Network Security Associate | 2023 | FORTINET |
+| Peserta Webinar Deteksi Dini Ancaman Website Pemda Melalui Patroli Keamanan Siber | 2024 | DIGITAMA |
+| Perencanaan Cyber Incident Response untuk Menghadapi Ancaman Siber | 2024 | INIXINDO JOGJA |
+| Describe security and compliance concepts | 2025 | MICROSOFT |
+| Micro Learning Cyber Security | 2023 | INIXINDO JOGJA |
+| Bimbingan Teknis Audit Keamanan Sistem Pemerintah Berbasis Elektronik (SPBE) | 2024 | DISKOMINFOTIK PROVINSI RIAU |
+| Memulai Pemrograman dengan Python | 2023 | DICODING |
+| Sertifikat Laporan Celah Kerentanan Kerentanan pada Sistem Kuansing | 2025 | DINAS KOMUNIKASI INFORMATIKA STATISTIK DAN PERSANDIAN KABUPATEN KUANTAN SINGINGI |
+| Jr Penetration Tester Learning Path | 2025 | TRYHACKME |
+| Cyber Security 101 Learning Path | 2025 | TRYHACKME |
+| Web Application Pentesting | 2025 | LINUXENIC CORP. |
+| Complete Ethical Hacking Bootcamp 2023: Zero to Mastery | 2022 | UDEMY |
+| Complete Website Ethical Hacking and Penetration Testing | 2022 | UDEMY |
+| Mastering Linux: The Complete Guide to Becoming a Linux Pro | 2024 | UDEMY |
+| Digital Forensics Masterclass: Forensic Science 2023 DFMC+ | 2023| UDEMY |
+
+
 
 </div>
 
