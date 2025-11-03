@@ -2,4 +2,4 @@
    
    # Hi there! 👋
    
-   Saya Asroy Cristian Sitorus, profesional di bidang cybersecurity...
+   Saya Asroy Cristian Sitorus, Saya Masih Pemula Dalam Dunia Cyber Security
