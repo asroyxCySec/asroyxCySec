@@ -26,9 +26,9 @@ class CyberSecuritySpecialist:
         
     def get_skills(self):
         return {
-            "security": ["Penetration Testing", "Vulnerability Assessment", "Security Auditing"],
-            "languages": ["Python", "Bash", "JavaScript", "SQL"],
-            "tools": ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "SQLMap"],
+            "security": ["Penetration Testing", "Vulnerability Assessment", "Security Auditing", "Reverse Engineer", "Digital Forensic", "Cyber Investigator"],
+            "languages": ["Python", "Bash", "JavaScript", "SQL", "Go", "C++", "R", "Java", "C"],
+            "tools": ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "SQLMap", "GHIDRA", "AirCrack", "Binwalk", "Bettercap", "Autopsy"],
             "specialization": ["Web Application Security", "Network Security", "OSINT"]
         }
     
